@@ -1,0 +1,8 @@
+[package]
+name = "my_payment_system"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+soroban-sdk = "21.2.0"
+soroban-cli = "21.4.1"
